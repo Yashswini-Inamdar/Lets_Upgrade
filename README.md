@@ -1,5 +1,6 @@
 # Lets_Upgrade
 # Assignments of Java Essential bootcamp by Lets Upgrade
+# Day 3 Assignment
 import java.util.Scanner;
 
 public class PositiveNegativeNumber {

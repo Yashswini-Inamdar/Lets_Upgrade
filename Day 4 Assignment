@@ -1,0 +1,14 @@
+# Day 4 Assignment
+public class SumTwoIntegers {
+    public static int sum(int a, int b) {
+        int result = a + b;
+        return result;
+    }
+
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 7;
+        int result = SumTwoIntegers.sum(a, b);
+        System.out.println(result); // Output: 12
+    }
+}
